@@ -8,6 +8,20 @@
 
 Projeto Desafio APIDotNetCoreJWTMysql
 
+## Structure ##
+
+| Item | Autor | Diretorio/Arquivo | Informação |
+| --- | --- | --- | --- |
+| 01 | Paulo Uechi | /APIDotNetCoreJWTMysql | Diretorio do Projeto API DotNetCore SDK 7.0 |  
+| 02 | Paulo Uechi | /DockerMySQL | Diretorio do Container MySQL Server 8.2.0  |  
+| 03 | Paulo Uechi | /design | Diretorio com desenhos feitos no Draw.io em C4 Model  |  
+| 04 | Paulo Uechi | /images | Diretorio com images deste repositorio  |  
+| 05 | Paulo Uechi | DotNetCore.postman_collection.json | Arquivo de importação do Postman  |  
+| 06 | Paulo Uechi | LICENSE | Arquivo com Informações sobre a licença deste repositorio  |  
+| 07 | Paulo Uechi | README.md | Arquivo Markdown com estas informações que você esta lendo  |  
+| 08 | Paulo Uechi | build.bat | Arquivo BATCH com as configurações de construção e execução deste projeto no Windows  |  
+| 09 | Paulo Uechi | build.sh | Arquivo Shellscript com as configurações de construção e execução deste projeto no Linux  |  
+
 ## Objective ##
 
 Descritivo da Solução:  
