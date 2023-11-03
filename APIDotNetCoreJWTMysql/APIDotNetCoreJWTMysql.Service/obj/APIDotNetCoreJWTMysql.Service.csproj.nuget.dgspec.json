@@ -1,0 +1,300 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\paulouechi\\Projetos\\Inmetrics\\dotnetcore-jwt-mysql\\APIDotNetCoreJWTMysql\\APIDotNetCoreJWTMysql.Service\\APIDotNetCoreJWTMysql.Service.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\paulouechi\\Projetos\\Inmetrics\\dotnetcore-jwt-mysql\\APIDotNetCoreJWTMysql\\APIDotNetCoreJWTMysql.Data\\APIDotNetCoreJWTMysql.Data.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\paulouechi\\Projetos\\Inmetrics\\dotnetcore-jwt-mysql\\APIDotNetCoreJWTMysql\\APIDotNetCoreJWTMysql.Data\\APIDotNetCoreJWTMysql.Data.csproj",
+        "projectName": "APIDotNetCoreJWTMysql.Data",
+        "projectPath": "C:\\Users\\paulouechi\\Projetos\\Inmetrics\\dotnetcore-jwt-mysql\\APIDotNetCoreJWTMysql\\APIDotNetCoreJWTMysql.Data\\APIDotNetCoreJWTMysql.Data.csproj",
+        "packagesPath": "C:\\Users\\paulouechi\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\paulouechi\\Projetos\\Inmetrics\\dotnetcore-jwt-mysql\\APIDotNetCoreJWTMysql\\APIDotNetCoreJWTMysql.Data\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\paulouechi\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard2.1": {
+            "targetAlias": "netstandard2.1",
+            "projectReferences": {
+              "C:\\Users\\paulouechi\\Projetos\\Inmetrics\\dotnetcore-jwt-mysql\\APIDotNetCoreJWTMysql\\APIDotNetCoreJWTMysql.Model\\APIDotNetCoreJWTMysql.Model.csproj": {
+                "projectPath": "C:\\Users\\paulouechi\\Projetos\\Inmetrics\\dotnetcore-jwt-mysql\\APIDotNetCoreJWTMysql\\APIDotNetCoreJWTMysql.Model\\APIDotNetCoreJWTMysql.Model.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netstandard2.1": {
+          "targetAlias": "netstandard2.1",
+          "dependencies": {
+            "Dapper": {
+              "target": "Package",
+              "version": "[2.1.15, )"
+            },
+            "Microsoft.Extensions.Configuration.FileExtensions": {
+              "target": "Package",
+              "version": "[7.0.0, )"
+            },
+            "Microsoft.Extensions.Configuration.Json": {
+              "target": "Package",
+              "version": "[7.0.0, )"
+            },
+            "Microsoft.Extensions.Options.ConfigurationExtensions": {
+              "target": "Package",
+              "version": "[7.0.0, )"
+            },
+            "MySql.Data": {
+              "target": "Package",
+              "version": "[8.2.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "NETStandard.Library": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.203\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\paulouechi\\Projetos\\Inmetrics\\dotnetcore-jwt-mysql\\APIDotNetCoreJWTMysql\\APIDotNetCoreJWTMysql.Model\\APIDotNetCoreJWTMysql.Model.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\paulouechi\\Projetos\\Inmetrics\\dotnetcore-jwt-mysql\\APIDotNetCoreJWTMysql\\APIDotNetCoreJWTMysql.Model\\APIDotNetCoreJWTMysql.Model.csproj",
+        "projectName": "APIDotNetCoreJWTMysql.Model",
+        "projectPath": "C:\\Users\\paulouechi\\Projetos\\Inmetrics\\dotnetcore-jwt-mysql\\APIDotNetCoreJWTMysql\\APIDotNetCoreJWTMysql.Model\\APIDotNetCoreJWTMysql.Model.csproj",
+        "packagesPath": "C:\\Users\\paulouechi\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\paulouechi\\Projetos\\Inmetrics\\dotnetcore-jwt-mysql\\APIDotNetCoreJWTMysql\\APIDotNetCoreJWTMysql.Model\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\paulouechi\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard2.1": {
+            "targetAlias": "netstandard2.1",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netstandard2.1": {
+          "targetAlias": "netstandard2.1",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "NETStandard.Library": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.203\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\paulouechi\\Projetos\\Inmetrics\\dotnetcore-jwt-mysql\\APIDotNetCoreJWTMysql\\APIDotNetCoreJWTMysql.Service\\APIDotNetCoreJWTMysql.Service.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\paulouechi\\Projetos\\Inmetrics\\dotnetcore-jwt-mysql\\APIDotNetCoreJWTMysql\\APIDotNetCoreJWTMysql.Service\\APIDotNetCoreJWTMysql.Service.csproj",
+        "projectName": "APIDotNetCoreJWTMysql.Service",
+        "projectPath": "C:\\Users\\paulouechi\\Projetos\\Inmetrics\\dotnetcore-jwt-mysql\\APIDotNetCoreJWTMysql\\APIDotNetCoreJWTMysql.Service\\APIDotNetCoreJWTMysql.Service.csproj",
+        "packagesPath": "C:\\Users\\paulouechi\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\paulouechi\\Projetos\\Inmetrics\\dotnetcore-jwt-mysql\\APIDotNetCoreJWTMysql\\APIDotNetCoreJWTMysql.Service\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\paulouechi\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard2.1": {
+            "targetAlias": "netstandard2.1",
+            "projectReferences": {
+              "C:\\Users\\paulouechi\\Projetos\\Inmetrics\\dotnetcore-jwt-mysql\\APIDotNetCoreJWTMysql\\APIDotNetCoreJWTMysql.Data\\APIDotNetCoreJWTMysql.Data.csproj": {
+                "projectPath": "C:\\Users\\paulouechi\\Projetos\\Inmetrics\\dotnetcore-jwt-mysql\\APIDotNetCoreJWTMysql\\APIDotNetCoreJWTMysql.Data\\APIDotNetCoreJWTMysql.Data.csproj"
+              },
+              "C:\\Users\\paulouechi\\Projetos\\Inmetrics\\dotnetcore-jwt-mysql\\APIDotNetCoreJWTMysql\\APIDotNetCoreJWTMysql.Model\\APIDotNetCoreJWTMysql.Model.csproj": {
+                "projectPath": "C:\\Users\\paulouechi\\Projetos\\Inmetrics\\dotnetcore-jwt-mysql\\APIDotNetCoreJWTMysql\\APIDotNetCoreJWTMysql.Model\\APIDotNetCoreJWTMysql.Model.csproj"
+              },
+              "C:\\Users\\paulouechi\\Projetos\\Inmetrics\\dotnetcore-jwt-mysql\\APIDotNetCoreJWTMysql\\APIDotNetCoreJWTMysql.Utils\\APIDotNetCoreJWTMysql.Utils.csproj": {
+                "projectPath": "C:\\Users\\paulouechi\\Projetos\\Inmetrics\\dotnetcore-jwt-mysql\\APIDotNetCoreJWTMysql\\APIDotNetCoreJWTMysql.Utils\\APIDotNetCoreJWTMysql.Utils.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netstandard2.1": {
+          "targetAlias": "netstandard2.1",
+          "dependencies": {
+            "Newtonsoft.Json": {
+              "target": "Package",
+              "version": "[13.0.3, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "NETStandard.Library": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.203\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\paulouechi\\Projetos\\Inmetrics\\dotnetcore-jwt-mysql\\APIDotNetCoreJWTMysql\\APIDotNetCoreJWTMysql.Utils\\APIDotNetCoreJWTMysql.Utils.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\paulouechi\\Projetos\\Inmetrics\\dotnetcore-jwt-mysql\\APIDotNetCoreJWTMysql\\APIDotNetCoreJWTMysql.Utils\\APIDotNetCoreJWTMysql.Utils.csproj",
+        "projectName": "APIDotNetCoreJWTMysql.Utils",
+        "projectPath": "C:\\Users\\paulouechi\\Projetos\\Inmetrics\\dotnetcore-jwt-mysql\\APIDotNetCoreJWTMysql\\APIDotNetCoreJWTMysql.Utils\\APIDotNetCoreJWTMysql.Utils.csproj",
+        "packagesPath": "C:\\Users\\paulouechi\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\paulouechi\\Projetos\\Inmetrics\\dotnetcore-jwt-mysql\\APIDotNetCoreJWTMysql\\APIDotNetCoreJWTMysql.Utils\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\paulouechi\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard2.1": {
+            "targetAlias": "netstandard2.1",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netstandard2.1": {
+          "targetAlias": "netstandard2.1",
+          "dependencies": {
+            "Microsoft.Extensions.Caching.Memory": {
+              "target": "Package",
+              "version": "[7.0.0, )"
+            },
+            "Microsoft.NETCore.Runtime.CoreCLR": {
+              "target": "Package",
+              "version": "[2.0.8, )"
+            },
+            "System.IdentityModel.Tokens.Jwt": {
+              "target": "Package",
+              "version": "[7.0.3, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "NETStandard.Library": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.203\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

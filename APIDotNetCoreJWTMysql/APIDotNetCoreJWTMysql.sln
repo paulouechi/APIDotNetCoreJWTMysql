@@ -1,0 +1,54 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33627.172
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "APIDotNetCoreJWTMysql", "APIDotNetCoreJWTMysql\APIDotNetCoreJWTMysql.csproj", "{1DD5F07A-AC4B-4182-BC1E-9BD347C81860}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "APIDotNetCoreJWTMysql.Model", "APIDotNetCoreJWTMysql.Model\APIDotNetCoreJWTMysql.Model.csproj", "{28292EF6-1569-4C47-84BB-F201B6DD7DCB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "APIDotNetCoreJWTMysql.Service", "APIDotNetCoreJWTMysql.Service\APIDotNetCoreJWTMysql.Service.csproj", "{81CC954F-21F0-49A9-9C86-B907768F23C9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "APIDotNetCoreJWTMysql.Utils", "APIDotNetCoreJWTMysql.Utils\APIDotNetCoreJWTMysql.Utils.csproj", "{59FCC1DB-4AF6-41E6-86D2-858AD7A6CF48}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "APIDotNetCoreJWTMysql.Data", "APIDotNetCoreJWTMysql.Data\APIDotNetCoreJWTMysql.Data.csproj", "{3421694D-CF2D-4D23-82C9-A0B26023E204}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Itens de Solução", "Itens de Solução", "{DE63DBF6-2309-439F-83BC-9E11DD183478}"
+	ProjectSection(SolutionItems) = preProject
+		..\README.md = ..\README.md
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1DD5F07A-AC4B-4182-BC1E-9BD347C81860}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1DD5F07A-AC4B-4182-BC1E-9BD347C81860}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1DD5F07A-AC4B-4182-BC1E-9BD347C81860}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1DD5F07A-AC4B-4182-BC1E-9BD347C81860}.Release|Any CPU.Build.0 = Release|Any CPU
+		{28292EF6-1569-4C47-84BB-F201B6DD7DCB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{28292EF6-1569-4C47-84BB-F201B6DD7DCB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{28292EF6-1569-4C47-84BB-F201B6DD7DCB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{28292EF6-1569-4C47-84BB-F201B6DD7DCB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{81CC954F-21F0-49A9-9C86-B907768F23C9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{81CC954F-21F0-49A9-9C86-B907768F23C9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{81CC954F-21F0-49A9-9C86-B907768F23C9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{81CC954F-21F0-49A9-9C86-B907768F23C9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{59FCC1DB-4AF6-41E6-86D2-858AD7A6CF48}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{59FCC1DB-4AF6-41E6-86D2-858AD7A6CF48}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{59FCC1DB-4AF6-41E6-86D2-858AD7A6CF48}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{59FCC1DB-4AF6-41E6-86D2-858AD7A6CF48}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3421694D-CF2D-4D23-82C9-A0B26023E204}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3421694D-CF2D-4D23-82C9-A0B26023E204}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3421694D-CF2D-4D23-82C9-A0B26023E204}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3421694D-CF2D-4D23-82C9-A0B26023E204}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {AC1D4C5E-9A56-47B1-A87A-7370BFC721F3}
+	EndGlobalSection
+EndGlobal

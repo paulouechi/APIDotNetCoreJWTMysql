@@ -1,0 +1,13 @@
+C:\Users\paulouechi\Projetos\Inmetrics\dotnetcore-jwt-mysql\APIDotNetCoreJWTMysql\APIDotNetCoreJWTMysql.Data\bin\Debug\netstandard2.1\APIDotNetCoreJWTMysql.Data.deps.json
+C:\Users\paulouechi\Projetos\Inmetrics\dotnetcore-jwt-mysql\APIDotNetCoreJWTMysql\APIDotNetCoreJWTMysql.Data\bin\Debug\netstandard2.1\APIDotNetCoreJWTMysql.Data.dll
+C:\Users\paulouechi\Projetos\Inmetrics\dotnetcore-jwt-mysql\APIDotNetCoreJWTMysql\APIDotNetCoreJWTMysql.Data\bin\Debug\netstandard2.1\APIDotNetCoreJWTMysql.Data.pdb
+C:\Users\paulouechi\Projetos\Inmetrics\dotnetcore-jwt-mysql\APIDotNetCoreJWTMysql\APIDotNetCoreJWTMysql.Data\bin\Debug\netstandard2.1\APIDotNetCoreJWTMysql.Model.dll
+C:\Users\paulouechi\Projetos\Inmetrics\dotnetcore-jwt-mysql\APIDotNetCoreJWTMysql\APIDotNetCoreJWTMysql.Data\bin\Debug\netstandard2.1\APIDotNetCoreJWTMysql.Model.pdb
+C:\Users\paulouechi\Projetos\Inmetrics\dotnetcore-jwt-mysql\APIDotNetCoreJWTMysql\APIDotNetCoreJWTMysql.Data\obj\Debug\netstandard2.1\APIDotNetCoreJWTMysql.Data.csproj.AssemblyReference.cache
+C:\Users\paulouechi\Projetos\Inmetrics\dotnetcore-jwt-mysql\APIDotNetCoreJWTMysql\APIDotNetCoreJWTMysql.Data\obj\Debug\netstandard2.1\APIDotNetCoreJWTMysql.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\paulouechi\Projetos\Inmetrics\dotnetcore-jwt-mysql\APIDotNetCoreJWTMysql\APIDotNetCoreJWTMysql.Data\obj\Debug\netstandard2.1\APIDotNetCoreJWTMysql.Data.AssemblyInfoInputs.cache
+C:\Users\paulouechi\Projetos\Inmetrics\dotnetcore-jwt-mysql\APIDotNetCoreJWTMysql\APIDotNetCoreJWTMysql.Data\obj\Debug\netstandard2.1\APIDotNetCoreJWTMysql.Data.AssemblyInfo.cs
+C:\Users\paulouechi\Projetos\Inmetrics\dotnetcore-jwt-mysql\APIDotNetCoreJWTMysql\APIDotNetCoreJWTMysql.Data\obj\Debug\netstandard2.1\APIDotNetCoreJWTMysql.Data.csproj.CoreCompileInputs.cache
+C:\Users\paulouechi\Projetos\Inmetrics\dotnetcore-jwt-mysql\APIDotNetCoreJWTMysql\APIDotNetCoreJWTMysql.Data\obj\Debug\netstandard2.1\APIDotNetCoreJWTMysql.Data.csproj.CopyComplete
+C:\Users\paulouechi\Projetos\Inmetrics\dotnetcore-jwt-mysql\APIDotNetCoreJWTMysql\APIDotNetCoreJWTMysql.Data\obj\Debug\netstandard2.1\APIDotNetCoreJWTMysql.Data.dll
+C:\Users\paulouechi\Projetos\Inmetrics\dotnetcore-jwt-mysql\APIDotNetCoreJWTMysql\APIDotNetCoreJWTMysql.Data\obj\Debug\netstandard2.1\APIDotNetCoreJWTMysql.Data.pdb

@@ -1,0 +1,3 @@
+is_global = true
+build_property.RootNamespace = APIDotNetCoreJWTMysql.Utils
+build_property.ProjectDir = C:\Users\paulouechi\Projetos\Inmetrics\dotnetcore-jwt-mysql\APIDotNetCoreJWTMysql\APIDotNetCoreJWTMysql.Utils\

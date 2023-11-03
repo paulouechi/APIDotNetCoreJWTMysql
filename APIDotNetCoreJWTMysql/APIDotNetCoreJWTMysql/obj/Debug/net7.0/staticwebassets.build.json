@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "7W1FV4SC1afSUnAvr3Kj+nJ4tXwfzYqKLca+LBrXaPw=",
+  "Source": "APIDotNetCoreJWTMysql",
+  "BasePath": "_content/APIDotNetCoreJWTMysql",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
